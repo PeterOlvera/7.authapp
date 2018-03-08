@@ -1,0 +1,8 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-pointer-access:hover {
+  color:#5cb85c;
+  transition: 0.5s;
+}
